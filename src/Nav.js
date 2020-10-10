@@ -25,7 +25,7 @@ function Nav() {
 
       <img
         className="avatar"
-        src="http://note.youdao.com/yws/public/resource/33ff6b5b234de305b53271ccbb97330d/xmlnote/WEBRESOURCE29cba347d3997d6e1aa9a1d551631a89/10"
+        src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg"
         alt="Avatar"
       />
     </div>
